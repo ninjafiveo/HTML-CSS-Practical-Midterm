@@ -1,0 +1,28 @@
+/* do not touch the code below here. Start all your code at the "START YOUR CSS HERE" line. */
+*{
+    margin: 0;
+    padding: 0;
+}
+/* Nav Bar*/
+.mainNav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#111;
+  }
+  .mainNav li {
+    float: left;
+  }
+  .mainNav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .mainNav li a:hover {
+    background-color: dodgerblue;
+  }
+/* Write all your code below this line */
+/* START YOUR CSS HERE */
